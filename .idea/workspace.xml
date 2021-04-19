@@ -2,11 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="439c7096-0215-4e4c-a7c8-b7e6e33c3fb1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Image/DS_Demons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image/DS_Foudre.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image/DS_Inozuke.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image/DS_Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image/DS_Muzan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image/DS_Nezuko.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image/DS_Sabre.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image/c4b02611acb5dde99c3f0d55cd6436c32845f5f7r1-1920-1080v2_uhq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image/e71d60a024fcf912491ba5564a45419b.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image/gyomei.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Accueil.html" beforeDir="false" afterPath="$PROJECT_DIR$/Accueil.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Camps.html" beforeDir="false" afterPath="$PROJECT_DIR$/Camps.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Personnage.html" beforeDir="false" afterPath="$PROJECT_DIR$/Personnage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resumer.html" beforeDir="false" afterPath="$PROJECT_DIR$/Resumer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Accueil.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Camps.html" beforeDir="false" afterPath="$PROJECT_DIR$/camps.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Personnage.html" beforeDir="false" afterPath="$PROJECT_DIR$/personnage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resumer.html" beforeDir="false" afterPath="$PROJECT_DIR$/resumer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +46,23 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Image" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zahrneh\AtelierSite\Image" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zahrneh\AtelierSite\Image" />
+      <recent name="C:\Users\zahrneh\AtelierSite\DS_Nezuko" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -47,11 +73,34 @@
       <option name="presentableId" value="Default" />
       <updated>1613117701351</updated>
       <workItem from="1613117702512" duration="2540000" />
-      <workItem from="1613122390532" duration="2232000" />
+      <workItem from="1613122390532" duration="3773000" />
+      <workItem from="1613482034352" duration="815000" />
+      <workItem from="1613646775988" duration="813000" />
+      <workItem from="1614594141913" duration="2712000" />
+      <workItem from="1614679392090" duration="1293000" />
+      <workItem from="1614682456655" duration="3170000" />
+      <workItem from="1615879155621" duration="8917000" />
+      <workItem from="1616483511462" duration="4920000" />
+      <workItem from="1617085691536" duration="8053000" />
+      <workItem from="1618565753871" duration="195000" />
+      <workItem from="1618685286807" duration="5725000" />
+      <workItem from="1618835628628" duration="333000" />
     </task>
+    <task id="LOCAL-00001" summary="Redirection dans la bonne page au clique sur le lien">
+      <created>1613124744090</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613124744090</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Redirection dans la bonne page au clique sur le lien" />
+    <option name="LAST_COMMIT_MESSAGE" value="Redirection dans la bonne page au clique sur le lien" />
   </component>
 </project>
