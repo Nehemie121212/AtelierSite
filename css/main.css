@@ -14,7 +14,7 @@ h2, caption{
     color: #EB5050;
     font-weight:bold;
     font-size: 1.8em;
-
+    margin: 0.5em;
 }
 li {
     color: #EB5050;
@@ -22,11 +22,12 @@ li {
 }
 p{
     margin: 0.5em;
+    font-family: Verdana;
 }
 p, strong {
     color: #2F1B25;
 }
-html, body, main {
+html, body, main ,div {
     margin: 0;
 }
 img {
@@ -53,10 +54,11 @@ header div {
     width: 50%;
     display: inline-block;
     margin-left: 5%;
+    padding-top: 2%;
 }
 header div div{
     height: auto;
-    width: 50%;
+    width: 85%;
     border: 1px solid #EB5050;
     background: #2F1B25;
     padding: 1em;
