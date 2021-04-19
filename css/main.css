@@ -19,6 +19,7 @@ h2, caption{
 li {
     color: #EB5050;
     font-size: 1.2em;
+    list-style-image: url(sakura.svg);
 }
 p{
     margin: 0.5em;
